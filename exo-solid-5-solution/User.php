@@ -1,7 +1,7 @@
 <?php
 
 class User
-{
+{ 
     private string $full_name = '';
     private string $email = '';
 
